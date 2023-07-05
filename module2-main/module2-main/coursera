@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{ margin:18px;}
+div{ margin:20px;}
+</style>
+</head>
+<body>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<h1 style="text-align:center;font-size:50px;">our menu</h1>
+<div style="background-color:rgb(100,100,100);color:black;">
+<h2><span style="family-font:10px;float:right;background-color:rgb(204, 84, 102);font-size:25px;padding-right:25px;padding-top:5px;padding-left:25px;padding-bottom:5px">Chicken</span><h2>
+<br>
+<p style="font-size:15px">
+lorem ipsum dolor sit amet, consectetur <br>adipisicing elit,sed do eiusmod tempor incididunt<br> ut labore et dolore magna aliqua. Ut enim ad <br>minim veniam,quis nostrud exercitation ullamco<br> laboris nisi yt aliquip ex ea commodo consequat</p>
+</div>
+<div style="background-color:rgb(100,100,100);color:black;">
+<h2><span style="family-font:10px;float:right;background-color:rgb(204, 120, 102);font-size:25px;padding-right:25px;padding-top:5px;padding-left:25px;padding-bottom:5px">Beef</span><h2>
+<br>
+<p style="font-size:15px">
+lorem ipsum dolor sit amet, consectetur <br>adipisicing elit,sed do eiusmod tempor incididunt<br> ut labore et dolore magna aliqua. Ut enim ad <br>minim veniam,quis nostrud exercitation ullamco<br> laboris nisi yt aliquip ex ea commodo consequat</p>
+</div>
+<div style="background-color:rgb(100,100,100);color:black;">
+<h2><span style="family-font:10px;float:right;background-color:rgb(222, 222, 133);font-size:25px;padding-right:25px;padding-top:5px;padding-left:25px;padding-bottom:5px">Sushi</span><h2>
+<br>
+<p style="font-size:15px">
+lorem ipsum dolor sit amet, consectetur <br>adipisicing elit,sed do eiusmod tempor incididunt<br> ut labore et dolore magna aliqua. Ut enim ad <br>minim veniam,quis nostrud exercitation ullamco<br> laboris nisi yt aliquip ex ea commodo consequat</p>
+</div>
+</body>
+</html>
+	
